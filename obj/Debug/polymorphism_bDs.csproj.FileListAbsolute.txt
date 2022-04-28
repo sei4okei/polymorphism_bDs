@@ -1,0 +1,6 @@
+C:\Users\comp0712\source\repos\polymorphism_bDs\bin\Debug\polymorphism_bDs.exe.config
+C:\Users\comp0712\source\repos\polymorphism_bDs\bin\Debug\polymorphism_bDs.exe
+C:\Users\comp0712\source\repos\polymorphism_bDs\bin\Debug\polymorphism_bDs.pdb
+C:\Users\comp0712\source\repos\polymorphism_bDs\obj\Debug\polymorphism_bDs.csproj.CoreCompileInputs.cache
+C:\Users\comp0712\source\repos\polymorphism_bDs\obj\Debug\polymorphism_bDs.exe
+C:\Users\comp0712\source\repos\polymorphism_bDs\obj\Debug\polymorphism_bDs.pdb
